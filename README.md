@@ -1,4 +1,4 @@
-# Les bases du réseau
+# Network's Foundations
 
 ## Étape 1
 
