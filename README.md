@@ -1,7 +1,5 @@
 # Les bases du réseau
 
-__Ce projet a pour objectif de nous enseigner les bases du réseau en créant un réseau local.__
-
 ## Étape 1
 
 ### Réalisation d'un schéma du réseau :
